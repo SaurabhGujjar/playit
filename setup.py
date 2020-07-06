@@ -3,13 +3,13 @@ from setuptools import setup
 setup(
     name='playit',
     packages = ['playit'],
-    version="0.09",
+    version="0.01",
     license='MIT', 
     description = 'It play music on console in various mode.',
     author = 'Saurabh Gujjar',
     author_email = 'saurabhpanwar127@gmail.com',
     url = 'https://github.com/SaurabhGujjar/playit.git', 
-    download_url = 'https://github.com/SaurabhGujjar/playit/archive/v_0.10.tar.gz',
+    download_url = 'https://github.com/SaurabhGujjar/playit/archive/v_0.01.tar.gz',
     keywords = ['music player', 'cli', 'command line interface'],
 
     py_modules=['playit'],

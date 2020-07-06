@@ -1,0 +1,1 @@
+from playit.cli import main, play, info, playlist
